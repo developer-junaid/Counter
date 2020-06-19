@@ -1,7 +1,11 @@
 # To Do List Web-Application
 
 http://mycounterproject.surge.sh/
-### *A Counter Web App that increments, decrements and resets counter*
+### *A Counter Web App that increments, decrements and resets counter.*
+
+## Task
+Built this app to practice and polish my HTML5, CSS3, Javascript-es6 and React Skills.
+
 
 ## Functionality
  - Increment Counter
