@@ -1,4 +1,4 @@
-# To Do List Web-Application
+# Counter Web-Application
 
 <img src="images/counter.png"/>
 
