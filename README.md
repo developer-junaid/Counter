@@ -1,5 +1,8 @@
 # To Do List Web-Application
 
+<img src="images/counter.png"/>
+
+
 http://mycounterproject.surge.sh/
 ### *A Counter Web App that increments, decrements and resets counter.*
 
